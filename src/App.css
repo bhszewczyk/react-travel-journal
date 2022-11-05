@@ -1,4 +1,10 @@
-.App {
-	max-width: 120rem;
+.app {
+	max-width: 60rem;
 	margin: 0 auto;
+	text-align: center;
+	background-color: #f5f5f5;
+}
+
+.cards-container {
+	padding: 0 4rem;
 }
